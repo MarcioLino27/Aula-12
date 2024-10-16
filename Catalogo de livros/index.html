@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catálogo de Livros</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1 class="page-title">Catálogo de Livros</h1>
+        <h2 class="page-subtitle">Biblioteca</h2>
+    </header>
+
+    <nav class="controls">
+        <input type="text" id="buscaInput" placeholder="Buscar livro..." oninput="buscarLivro()" aria-label="Buscar livro">
+        <button onclick="listarLivros()" aria-label="Listar livros">Listar Livros</button>
+        <button onclick="adicionarLivro()" aria-label="Adicionar livro">Adicionar Livro</button>
+        <button onclick="classificarLivros('titulo')" aria-label="Classificar por título">Classificar por Título</button>
+        <button onclick="classificarLivros('autor')" aria-label="Classificar por autor">Classificar por Autor</button>
+        <button onclick="classificarLivros('ano')" aria-label="Classificar por ano">Classificar por Ano</button>
+    </nav>
+
+    <main id="livros-container"></main>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,62 @@
+[
+    {
+        "nome": "Dom Casmurro",
+        "autor": "Machado de Assis",
+        "ano": "1899",
+        "imagem": "dom_casmurro.jpg"
+    },
+    {
+        "nome": "Memórias Póstumas de Brás Cubas",
+        "autor": "Machado de Assis",
+        "ano": "1881",
+        "imagem": "memorias_postumas.jpg"
+    },
+    {
+        "nome": "O Senhor dos Anéis: A Sociedade do Anel",
+        "autor": "J.R.R. Tolkien",
+        "ano": "1954",
+        "imagem": "senhor_dos_aneis_sociedade.jpg"
+    },
+    {
+        "nome": "Harry Potter e a Pedra Filosofal",
+        "autor": "J.K. Rowling",
+        "ano": "1997",
+        "imagem": "harry_potter_pedra_filosofal.jpg"
+    },
+    {
+        "nome": "O Hobbit",
+        "autor": "J.R.R. Tolkien",
+        "ano": "1937",
+        "imagem": "o_hobbit.jpg"
+    },
+    {
+        "nome": "Duna",
+        "autor": "Frank Herbert",
+        "ano": "1965",
+        "imagem": "duna.jpg"
+    },
+    {
+        "nome": "O Guia do Mochileiro das Galáxias",
+        "autor": "Douglas Adams",
+        "ano": "1979",
+        "imagem": "guia_do_mochileiro.jpg"
+    },
+    {
+        "nome": "Neuromancer",
+        "autor": "William Gibson",
+        "ano": "1984",
+        "imagem": "neuromancer.jpg"
+    },
+    {
+        "nome": "O Exterminador do Futuro",
+        "autor": "Randall Frakes",
+        "ano": "1985",
+        "imagem": "exterminador_futuro.jpg"
+    },
+    {
+        "nome": "Jogador Número 1",
+        "autor": "Ernest Cline",
+        "ano": "2011",
+        "imagem": "jogador_numero_1.jpg"
+    }
+]
